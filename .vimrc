@@ -1,7 +1,8 @@
+execute pathogen#infect()
+syntax on
 filetype indent plugin on
 color molokai
 set showcmd
-syntax on
 set hidden
 set hlsearch
 set ignorecase
