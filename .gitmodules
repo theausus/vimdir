@@ -25,3 +25,9 @@
 [submodule "vim-shell"]
 	path = bundle/vim-shell
 	url = https://github.com/xolox/vim-shell
+[submodule "bundle/vim-signify"]
+	path = bundle/vim-signify
+	url = https://github.com/mhinz/vim-signify.git
+[submodule "bundle/vim-repeat"]
+	path = bundle/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
